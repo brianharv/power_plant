@@ -1,5 +1,5 @@
-import 'plant.js'
-
+import './plant.js';
+import $ from 'jquery';
 
 $(document).ready(function() {
 
